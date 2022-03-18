@@ -8,9 +8,7 @@ import { ListadoComponent } from './listado/listado.component';
         HeroeComponent,
         ListadoComponent
     ],
-    exports: [
-        ListadoComponent
-    ],
+    
     imports: [
         CommonModule
     ]
